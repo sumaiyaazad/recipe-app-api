@@ -5,3 +5,5 @@ source env/bin/activate
 pip install -r requirements.txt
 django-admin startproject app app
 @REM python manage.py runserver 0.0.0.0:8000
+@REM python manage.py test
+cd app

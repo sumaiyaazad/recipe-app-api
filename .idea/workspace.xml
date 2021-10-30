@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dece92c-21c0-4d4f-ac73-8c14907bf715" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/recipe-app-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipe-app-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initialize.bat" beforeDir="false" afterPath="$PROJECT_DIR$/initialize.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\recipe-app-api" />
+      <recent name="E:\projects\recipe-app-api\app" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,7 +43,8 @@
       <updated>1635607745728</updated>
       <workItem from="1635607749362" duration="214000" />
       <workItem from="1635607994768" duration="143000" />
-      <workItem from="1635608162649" duration="921000" />
+      <workItem from="1635608162649" duration="4283000" />
+      <workItem from="1635612506179" duration="695000" />
     </task>
     <servers />
   </component>
@@ -52,5 +61,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
