@@ -12,5 +12,5 @@ COPY ./app /app
 
 
 # -D says the user can only run the appliation
-RUN adduser -D user
-USER user
+#RUN adduser user
+#USER user
