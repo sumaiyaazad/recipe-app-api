@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dece92c-21c0-4d4f-ac73-8c14907bf715" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/core/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/tests/test_admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/initialize.bat" beforeDir="false" afterPath="$PROJECT_DIR$/initialize.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
       <workItem from="1635608162649" duration="4283000" />
       <workItem from="1635612506179" duration="1743000" />
       <workItem from="1635614273318" duration="889000" />
-      <workItem from="1635653349101" duration="5821000" />
+      <workItem from="1635653349101" duration="9863000" />
     </task>
     <servers />
   </component>
