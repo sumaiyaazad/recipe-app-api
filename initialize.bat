@@ -8,5 +8,5 @@ django-admin startproject app app
 @REM python manage.py test
 @REM python manage.py startapp core
 @REM if we change the model we need to run the migrations again
-@REM python manage.py makemigrations co re
+@REM python manage.py makemigrations core
 cd app
